@@ -1,0 +1,32 @@
+[
+  {
+    "country": "GB",
+    "name": "London",
+    "lat": "51.50853",
+    "lng": "-0.12574"
+  },
+  {
+    "country": "GB",
+    "name": "Llanelli",
+    "lat": "51.68195",
+    "lng": "-4.16191"
+  },
+  {
+    "country": "GB",
+    "name": "Manchester City Centre",
+    "lat": "53.48097",
+    "lng": "-2.24555"
+  },
+  {
+    "country": "GB",
+    "name": "Aberystwyth",
+    "lat": "52.41548",
+    "lng": "-4.08292"
+  },
+  {
+    "country": "GB",
+    "name": "Cardiff",
+    "lat": "51.48",
+    "lng": "-3.18"
+  }
+]
